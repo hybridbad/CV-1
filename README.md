@@ -1,29 +1,24 @@
-## Your Name
+## James Davies
+
+Hi, I'm James. Here's some facts about me.
+
+***
+[Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
+[Portfolio](https://hybridbad.github.io)
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
-## Skills
+### <a name="skills">Skills</a>
 
-#### This Skill
+- **Quick Study** - Lorem ipsum
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- **Quick Study** - Lorem ipsum
 
-- Experience
-- Achievements
-- Evidence
+### <a name="education">Education</a>
 
-#### Another Skill
+#### Makers Academy (March 2019 to May 2019)
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-## Education
-
-#### Makers Academy (start_date to end_date)
+Makers Fellow, highly selective 12 week intensive coding bootcamp.
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +29,30 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Chichester College (September 2008 to June 2010)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- HND Computing, specialising in networking and software dev.
 
-#### Any other qualifications
+### Mary Hare School for the Deaf (September 2003 to June 2008)
 
-## Experience
+- 11 GCSE's 1 C, 9 B's and 1 A
+- AS Level Physics C
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+### <a name="experience">Experience</a>
+
+**Pharmagraph** (January 2014 to January 2019)
+*Commissioning Engineer*
+
+**Fresenius Kabi** (September 2011 to December 2014)
+
+### <a name="interests">Interests</a>
+
+- **Card** - I am an absolute petrolhead...
+- **Cooking** - Built my own kitchen for this very reason!
+- **Video games** - Still a kid...
+
+### <a name="contact">Contact</a>
+- Github: [hybridbad](http://github.com/hybridbad)
+- Medium: [Read it here](https://medium.com/@hybridbad90)
+- Codewars https://www.codewars.com/users/hybridbad
+- Portfolio: [James Davies](https://hybridbad.github.io)
