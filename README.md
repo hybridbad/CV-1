@@ -1,9 +1,9 @@
 ## James Davies
 
-Hi, I'm James. Here's some facts about me.
+Hi, I'm James.
 
 ***
-[Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 [Portfolio](https://hybridbad.github.io)
 
 I am a Makers Fellow currently studying on the Makers 12 week intensive bootcamp. My background in engineering has crafted me into an extremely technical individual with a love of problem solving.
@@ -12,11 +12,23 @@ Looking to kickstart my career in the tech sector of London or surrounding Surre
 
 ### <a name="skills">Skills</a>
 
-- **Quick Study** - Lorem ipsum
+- **Quick Learner** - Lorem ipsum
+
 - **Inquistive** - I love learning, researching anything that piques my interest, from learning about engines to cooking techniques. Makers academy has only reinforced that and I relish learning about different technolgies, learning about how to be the best code craftsman I can.
+
 - **Drive** - I am highly motivated, I relish a challenge. My success in getting into the Fellowship programme in Makers is an example of this, I pushed myself above and beyond to achieve my dream. 
+
 - **Team player** - I have always been a team player, willing to offer my help or experience whenever required. Throught my working life I have worked in teams, especially as a Commissioning Engineer liasing with other contractors.
-- **Adaptable** - I am profoundly deaf, adpatation comes naturally to me in this hearing majority world. 
+
+- **Adaptable** - I am profoundly deaf, adpatation comes naturally to me in this world with a hearing majority. I have worked around Europe as 
+
+### <a name="projects">Projects</a>
+
+I will populate the table with projects I work on as I progress through the Makers Academy bootcamp.
+
+Project | Description | Code/Demo Links | Technologies Used
+--- | --- | --- | --- 
+Example Project| Awesome sauce| Linky Link | Ruby, rails
 
 ### <a name="education">Education</a>
 
@@ -24,9 +36,9 @@ Looking to kickstart my career in the tech sector of London or surrounding Surre
 
 Makers Fellow, enrolled in the highly selective 12 week intensive coding bootcamp.
 
-- Curious and passionate about code. [PROVIDE EVIDENCE!]
-- Fast, independent learner [PROVIDE EVIDENCE!]
-- Great collaborator [PROVIDE EVIDENCE!]
+- Curious and passionate about code. 
+- Fast, independent learner
+- Great collaborator
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -36,7 +48,7 @@ Makers Fellow, enrolled in the highly selective 12 week intensive coding bootcam
 
 #### Chichester College (September 2008 to June 2010)
 
-- HND Computing, specialising in networking and software dev.
+- HND Computing, specialising in software
 - Merit Grade
 
 #### Mary Hare School for the Deaf (September 2003 to June 2008)
@@ -68,9 +80,9 @@ Worked within a team co-ordinating packaging lines for the despatch of oncology 
 
 ### <a name="interests">Interests</a>
 
-- **Cars** - I am an absolute petrolhead, I could probably bore you.
+- **Cars** - I am an absolute petrolhead, I could probably bore you to death talking about cars.
 - **Cooking** - Built my own kitchen for this very reason!
-- **Video games** - Still a kid...
+- **Video games** - Still love a quick MOBA game
 
 ### <a name="contact">Contact</a>
 - Github: [hybridbad](http://github.com/hybridbad)
