@@ -22,7 +22,7 @@ Looking to kickstart my career in the tech sector of London or surrounding Surre
 
 #### Makers Academy (March 2019 to May 2019)
 
-Makers Fellow, highly selective 12 week intensive coding bootcamp.
+Makers Fellow, enrolled in the highly selective 12 week intensive coding bootcamp.
 
 - Curious and passionate about code. [PROVIDE EVIDENCE!]
 - Fast, independent learner [PROVIDE EVIDENCE!]
