@@ -12,9 +12,11 @@ Looking to kickstart my career in the tech sector of London or surrounding Surre
 
 ### <a name="skills">Skills</a>
 
-- **Quick Learner** - Lorem ipsum
+- **Quick Learner** - Able to pick up new technologies quickly and effectively. 
 
 - **Inquistive** - I love learning, researching anything that piques my interest, from learning about engines to cooking techniques. Makers academy has only reinforced that and I relish learning about different technolgies, learning about how to be the best code craftsman I can.
+
+- **Finer details** - Through out my working life I have had to have intricate attention to detail, I have gained this in my engineering background. Working on senstive sensor systems where a small detail can affect the entire infrastructure. I apply this to my coding, as I learn more about syntax I can spot things very quickly.
 
 - **Drive** - I am highly motivated, I relish a challenge. My success in getting into the Fellowship programme in Makers is an example of this, I pushed myself above and beyond to achieve my dream. 
 
@@ -36,11 +38,12 @@ Example Project| Awesome sauce| Linky Link | Ruby, rails
 
 Makers Fellow, enrolled in the highly selective 12 week intensive coding bootcamp.
 
-- Curious and passionate about code. 
 - Fast, independent learner
-- Great collaborator
+- Curious and passionate about code
+- Great collaborator - My background in Commissioning saw me collaborating with other companies, in the UK and abroad.
+- Object Orientated Programming
+- Test Driven Development - Makers teach the fundemental importance of TDD in projects
 
-- OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby
 - RSpec, Pry
@@ -62,6 +65,7 @@ Makers Fellow, enrolled in the highly selective 12 week intensive coding bootcam
 *Commissioning Engineer*
 
 Development a commissioning of Pharmaceutical monitoring systems installed worldwide. Ranging from NHS, Private pharma, packaging machine developers and many others.
+
 - Terminating of electrical cables, installing various sensors/monitoring equipment. Electrical panel termination and wiring.
 - Health & Safety trained, GMP trained.
 - Creation of electrical drawings, hardware drawings and room layouts using CAD 2D software.
@@ -73,6 +77,7 @@ Development a commissioning of Pharmaceutical monitoring systems installed world
 *Technical Specialist*
 
 Worked within a team co-ordinating packaging lines for the despatch of oncology drugs to hospitals all around Europe. Operated complex machines that do tasks such as labelling, shrink sleeving and carton printing. 
+
 - Training staff to operate machines on packaging lines.
 - Complying with cGMP regulations and following SOPs
 - Working with management on equipment projects to assist in increasing packaging output.
