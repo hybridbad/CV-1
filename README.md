@@ -6,15 +6,15 @@ Hi, I'm James.
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 [Portfolio](https://hybridbad.github.io)
 
-I am a Makers Fellow currently studying on the Makers 12 week intensive bootcamp. My background in engineering has crafted me into an extremely technical individual with a love of problem solving.
+A Makers Fellow currently studying on the Makers 12 week intensive bootcamp. My background in engineering has crafted me into an extremely technical individual with a love of problem solving. I am profoundly deaf, I want to prove to other deaf people that they can make it in the tech industry, hopefully one day I can help them in the future.
 
-Looking to kickstart my career in the tech sector of London or surrounding Surrey areas, I would love to work in AI or Software aiming to help peoples lives for the better. The future is bright!
+Looking to kickstart my career in the tech sector of London or surrounding Surrey areas, I would love to work in AI or Software aiming to help peoples lives for the better. 
 
 ### <a name="skills">Skills</a>
 
-- **Quick Learner** - Able to pick up new technologies quickly and effectively. 
+- **Quick Learner** - Able to pick up new technologies quickly and effectively. For the fellowship interview I had to pass certain challenges in a short space of time to be considered for the interview, I managed to achieve this within 2 weeks. 
 
-- **Inquistive** - I love learning, researching anything that piques my interest, from learning about engines to cooking techniques. Makers academy has only reinforced that and I relish learning about different technolgies, learning about how to be the best code craftsman I can.
+- **Inquisitive** - I love learning, researching anything that piques my interest, from learning about engines to cooking techniques. Makers academy has only reinforced that and I relish learning about different technolgies, learning about how to be the best code craftsman I can.
 
 - **Finer details** - Through out my working life I have had to have intricate attention to detail, I have gained this in my engineering background. Working on senstive sensor systems where a small detail can affect the entire infrastructure. I apply this to my coding, as I learn more about syntax I can spot things very quickly.
 
