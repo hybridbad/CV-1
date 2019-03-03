@@ -16,11 +16,11 @@ Looking to kickstart my career in the tech sector of London or surrounding Surre
 
 - **Inquisitive** - I love learning, researching anything that piques my interest, from learning about engines to cooking techniques. Makers academy has only reinforced that and I relish learning about different technolgies, learning about how to be the best code craftsman I can.
 
-- **Finer details** - Through out my working life I have had to have intricate attention to detail, I have gained this in my engineering background. Working on senstive sensor systems where a small detail can affect the entire infrastructure. I apply this to my coding, as I learn more about syntax I can spot things very quickly.
+- **Finer details** - Throughout my working life I have had to have intricate attention to detail, I have gained this in my engineering background. Working on sensitive sensor systems where a small detail can affect the entire infrastructure. I apply this to my coding, as I learn more about syntax I can spot things very quickly.
 
 - **Drive** - I am highly motivated, I relish a challenge. My success in getting into the Fellowship programme in Makers is an example of this, I pushed myself above and beyond to achieve my dream. 
 
-- **Team player** - I have always been a team player, willing to offer my help or experience whenever required. Throught my working life I have worked in teams, especially as a Commissioning Engineer liasing with other contractors.
+- **Team player** - I have always been a team player, willing to offer my help or experience whenever required. Through my working life I have worked in teams, especially as a Commissioning Engineer liasing with other contractors.
 
 - **Adaptable** - I am profoundly deaf, adpatation comes naturally to me in this world with a hearing majority. I have worked around Europe with various teams with language barriers included!
 
