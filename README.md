@@ -30,7 +30,7 @@ I will populate the table with projects I work on as I progress through the Make
 
 Project | Description | Code/Demo Links | Technologies Used
 --- | --- | --- | --- 
-Example Project| Awesome sauce| Linky Link | Ruby, rails
+Bookmark Manager| Web app bookmark manager | [Portfolio](https://github.com/hybridbad/bookmark-manager) | Ruby, postgresql, sinatra, SQL, HTML, CSS
 
 ### <a name="education">Education</a>
 
