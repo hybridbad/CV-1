@@ -1,6 +1,6 @@
 ## James Davies
 
-Hi, I'm James.
+Hi, I'm James. A Full-stack web developer.
 
 ***
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
@@ -8,7 +8,7 @@ Hi, I'm James.
 
 A Makers Fellow currently studying on the Makers 12 week intensive bootcamp. My background in engineering has crafted me into an extremely technical individual with a love of problem solving. I am profoundly deaf, I want to prove to other deaf people that they can make it in the tech industry, hopefully one day I can help them in the future.
 
-Looking to kickstart my career in the tech sector of London or surrounding Surrey areas, I would love to work in AI or Software aiming to help peoples lives for the better. 
+Looking to kickstart my career in the tech sector of London or surrounding Surrey areas, I would love to work in an area aiming to help peoples lives for the better.
 
 ### <a name="skills">Skills</a>
 
@@ -26,11 +26,18 @@ Looking to kickstart my career in the tech sector of London or surrounding Surre
 
 ### <a name="projects">Projects</a>
 
-I will populate the table with projects I work on as I progress through the Makers Academy bootcamp.
+These are some of the projects/work I have done so far, some from the early stages of my learning path.
 
 Project | Description | Code/Demo Links | Technologies Used
 --- | --- | --- | --- 
-Bookmark Manager| Web app bookmark manager | [Bookmark Manager](https://github.com/hybridbad/bookmark-manager) | Ruby, postgresql, sinatra, SQL, HTML, CSS
+Acebook | Group project on our take of a popular social website | [Acebook](https://github.com/hybridbad/acebook-business-logic) | Ruby, Rails, HTML, CSS, postgres
+MakersBnB | AirBnB clone group project | [Makers BnB](https://github.com/hybridbad/makersbnb) | Ruby, postgresql, sinatra, HTML, CSS, jQuery
+Bank Tech Test JS | Javascript bank tech test | [Chitter](https://github.com/hybridbad/bank-tech-test-js) | Javascript
+Bookmark Manager| Web app bookmark manager | [Bookmark Manager](https://github.com/hybridbad/bookmark-manager) | Ruby, postgresql, sinatra, HTML, CSS
+Chitter Challenge| Web app twitter clone | [Chitter](https://github.com/hybridbad/chitter-challenge) | Ruby, postgresql, sinatra, HTML, CSS
+Thermostat | First week challenge in Javascript to build a thermostat | [Chitter](https://github.com/hybridbad/thermostat) | Javascript, jQuery, CSS, API
+Airport Challenge | Pairing challenge | [Chitter](https://github.com/hybridbad/airport_challenge) | Ruby
+
 
 ### <a name="education">Education</a>
 
@@ -45,8 +52,8 @@ Makers Fellow, enrolled in the highly selective 12 week intensive coding bootcam
 - Test Driven Development - Makers teach the fundemental importance of TDD in projects
 
 - Agile/XP
-- Ruby
-- RSpec, Pry
+- Ruby/Javascript
+- RSpec, Jasmine, Jest
 - Shell
 
 #### Chichester College (September 2008 to June 2010)
@@ -87,10 +94,10 @@ Worked within a team co-ordinating packaging lines for the despatch of oncology 
 
 - **Cars** - I am an absolute petrolhead, I could probably bore you to death talking about cars.
 - **Cooking** - Built my own kitchen for this very reason!
-- **Video games** - Still love a quick MOBA game
+- **Video games** - Still love a quick MOBA game, Nintendo Switch for that quick fix on the train.
 
 ### <a name="contact">Contact</a>
 - Github: [hybridbad](http://github.com/hybridbad)
 - Medium: [Read it here](https://medium.com/@hybridbad90)
-- Codewars https://www.codewars.com/users/hybridbad
+- [Codewars](https://www.codewars.com/users/hybridbad)
 - Portfolio: [James Davies](https://hybridbad.github.io)
