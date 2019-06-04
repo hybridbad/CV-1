@@ -31,14 +31,14 @@ These are some of the projects/work I have done so far, some from the early stag
 
  Project | Description | Code/Demo Links | Technologies Used
 --- | --- | --- | --- 
-RPi Weather Station | Makers final group project, Rpasberry Pi Weather Station with API server and Single page app | [Raspberry Pi](https://github.com/Hives/weather-station-rpi) <br> [API Web Server](https://github.com/riyadattani/weather_station_server) [Single Page App](https://github.com/hybridbad/spa-weather-station-vanilla) <br>  | Python, Pytest, Javascript, NodeJS, Express, MongoDB Mocha, Jest
+RPi Weather Station | Makers final group project, Rpasberry Pi Weather Station with API server and Single page app | [Raspberry Pi](https://github.com/Hives/weather-station-rpi) <br> [API Web Server](https://github.com/riyadattani/weather_station_server)<br> [Single Page App](https://github.com/hybridbad/spa-weather-station-vanilla)   | Python, Pytest, Javascript, NodeJS, Express, MongoDB Mocha, Jest
 Acebook | Group project on our take of a popular social website | [Acebook](https://github.com/hybridbad/acebook-business-logic) | Ruby, Rails, HTML, CSS, postgres
 MakersBnB | AirBnB clone group project | [Makers BnB](https://github.com/hybridbad/makersbnb) | Ruby, postgresql, sinatra, HTML, CSS, jQuery
-Bank Tech Test JS | Javascript bank tech test | [Chitter](https://github.com/hybridbad/bank-tech-test-js) | Javascript
+Bank Tech Test JS | Javascript bank tech test | [Bank Tech Test](https://github.com/hybridbad/bank-tech-test-js) | Javascript
 Bookmark Manager| Web app bookmark manager | [Bookmark Manager](https://github.com/hybridbad/bookmark-manager) | Ruby, postgresql, sinatra, HTML, CSS
 Chitter Challenge| Web app twitter clone | [Chitter](https://github.com/hybridbad/chitter-challenge) | Ruby, postgresql, sinatra, HTML, CSS
-Thermostat | First week challenge in Javascript to build a thermostat | [Chitter](https://github.com/hybridbad/thermostat) | Javascript, jQuery, CSS, API
-Airport Challenge | Pairing challenge | [Chitter](https://github.com/hybridbad/airport_challenge) | Ruby
+Thermostat | First week challenge in Javascript to build a thermostat | [Thermostat](https://github.com/hybridbad/thermostat) | Javascript, jQuery, CSS, API
+Airport Challenge | Pairing challenge | [Airport Challenge](https://github.com/hybridbad/airport_challenge) | Ruby
 
 
 ### <a name="education">Education</a>
@@ -120,6 +120,8 @@ Worked within a team co-ordinating packaging lines for the despatch of oncology 
 - **Video games** - Still love a quick MOBA game, Just got myself a Nintendo Switch for the train journeys and loving it.
 
 ### <a name="contact">Contact</a>
+
+- Email: jamesmikedavies@gmail.com
 
 - Github: [hybridbad](http://github.com/hybridbad)
 
