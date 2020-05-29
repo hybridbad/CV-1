@@ -7,9 +7,8 @@ Hi, I'm James. A Full-stack web developer.
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 
-I am Makers Fellowship graduate currently looking for my next challenge. My background in engineering has crafted me into an extremely technical individual with a love of problem solving. I am profoundly deaf, I want to prove to other deaf people that they can make it in the tech industry, hopefully one day I can help them in the future.
-
-Looking to kickstart my career in the tech sector of London or surrounding Surrey areas.
+I am Makers Fellowship graduate currently working at the Capgemini Applied Innovation Exchange. 
+My background in engineering has crafted me into an extremely technical individual with a love of problem solving. I am profoundly deaf, I want to prove to other deaf people that they can make it in the tech industry, hopefully one day I can help them in the future to achieve their dreams.
 
 ### <a name="skills">Skills</a>
 
@@ -37,9 +36,6 @@ MakersBnB | AirBnB clone group project | [Makers BnB](https://github.com/hybridb
 Bank Tech Test JS | Javascript bank tech test | [Bank Tech Test](https://github.com/hybridbad/bank-tech-test-js) | Javascript
 Bookmark Manager| Web app bookmark manager | [Bookmark Manager](https://github.com/hybridbad/bookmark-manager) | Ruby, postgresql, sinatra, HTML, CSS
 Chitter Challenge| Web app twitter clone | [Chitter](https://github.com/hybridbad/chitter-challenge) | Ruby, postgresql, sinatra, HTML, CSS
-Thermostat | First week challenge in Javascript to build a thermostat | [Thermostat](https://github.com/hybridbad/thermostat) | Javascript, jQuery, CSS, API
-Airport Challenge | Pairing challenge | [Airport Challenge](https://github.com/hybridbad/airport_challenge) | Ruby
-
 
 ### <a name="education">Education</a>
 
@@ -59,7 +55,7 @@ Makers Fellow, enrolled in the highly selective 12 week intensive coding bootcam
 
 - Agile - scrums, stand-ups, mobbing - I'm AGILE
 
-- Ruby/Javascript with RSpec, Jasmine, Jest
+- Ruby, JavaScript, React + React Native, Firebase, AWS Amplify, StencilJS, NodeJS, Python, Github, Shell.
 
 
 #### Chichester College (September 2008 to June 2010)
@@ -74,7 +70,17 @@ Makers Fellow, enrolled in the highly selective 12 week intensive coding bootcam
 
 ### <a name="experience">Experience</a>
 
-  
+**Capgemini AIE** (July 2019 ongoing)
+
+*Emerging Technology Engineer*
+
+Creating innovative solutions to solve client problems, using emerging technologies wherever possible. I have worked with many tech stacks due to the nature of the work.
+
+- Working in small sprint teams to devise a solution, coming up with Tech Stacks and then implementing/creating the solution.
+
+- Keeping in the loop with emerging technology by researching and monitoring the web space.
+
+- Learning and adapting to new tech stacks on the fly, each project may have a different or new unknown stack!
 
 **Pharmagraph** (January 2014 to January 2019)
 
@@ -105,11 +111,7 @@ Worked within a team co-ordinating packaging lines for the despatch of oncology 
 
 - Complying with cGMP regulations and following SOPs
 
-- Working with management on equipment projects to assist in increasing packaging output.
-
 - Troubleshoot and fix machine problems as well as machine maintenance.
-
-  
 
 ### <a name="interests">Interests</a>
 
