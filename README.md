@@ -43,9 +43,7 @@ Makers Fellowship, enrolled in the highly selective 12 week intensive Full Stack
 
 ### <a name="experience">Experience</a>
 
-**Capgemini AIE** (July 2019 ongoing)
-
-*Emerging Technology Engineer/Full Stack Engineer*
+**Capgemini AIE** (July 2019 ongoing) - *Emerging Technology Engineer/Full Stack Engineer*
 
 Creating innovative solutions to solve client problems, using emerging technologies wherever possible. I have worked with many technologies across various prototyping projects. We focus on rapid prototyping with emerging technologies to develop greenfield projects.
 
@@ -70,9 +68,7 @@ Tech stack:
 - StencilJS Framework
 - HTML, Styled-components, NodeJS with Google Cloud Platform (Firebase)
 
-**Pharmagraph** (January 2014 to January 2019)
-
-*Commissioning Engineer*
+**Pharmagraph** (January 2014 to January 2019) - *Commissioning Engineer*
 
 Development a commissioning of Pharmaceutical monitoring systems installed worldwide. Ranging from NHS, Private pharma, packaging machine developers and many others.
 
@@ -82,9 +78,7 @@ Development a commissioning of Pharmaceutical monitoring systems installed world
 - Creating high quality Project Documentation such as User Requirement Specifications, Qualification protocols and hardware testing protocols.
 
   
-**Fresenius Kabi** (September 2011 to December 2014)
-
-*Technical Specialist*
+**Fresenius Kabi** (September 2011 to December 2014) - *Technical Specialist*
 
 Worked within a team co-ordinating packaging lines for the despatch of oncology drugs to hospitals all around Europe. Operated/repaired complex machines that do tasks such as labelling, shrink sleeving and carton printing.
 
